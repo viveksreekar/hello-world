@@ -4,3 +4,4 @@ USN: 22BTRCL040
 Goales:
 • Data Science Expertise
 • Sprint Model for Real-Life Hands-On Experience
+• Enhanced Problem-Solving and Analytical Skills
