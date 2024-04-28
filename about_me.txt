@@ -1,2 +1,6 @@
 Name: C.V.Vivek Sreekar
 USN: 22BTRCL040
+
+Goales:
+• Data Science Expertise
+• Sprint Model for Real-Life Hands-On Experience
